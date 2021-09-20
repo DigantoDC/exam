@@ -1,0 +1,171 @@
+*{
+
+margin: 0px;
+padding: 0px;
+
+}
+
+.container{
+
+width: 1140px;
+margin:0px auto;
+
+}
+
+
+.bnr{
+width: 100%;
+float: left;
+background: url(backgr.jpg);
+height:800px;
+
+}
+
+
+
+
+.part-one{
+
+    float: left;
+    width: 50%;
+}
+
+.just-one{
+color: white;
+padding-top: 80px;
+
+}
+
+.just-one h2{
+
+    text-transform: capitalize;
+    font-size:45px;
+    text-shadow: 4px 2px black;
+
+}
+
+.just-one p{
+
+    padding:35px 0px;
+    font-size:23px;
+    font-weight:700;
+
+}
+
+
+.just-two{
+
+    color: white;
+    
+
+}
+
+.just-two ul{
+
+    list-style:none;
+    
+
+}
+
+
+
+.just-two li{
+
+    padding:5px 0px;
+    
+}
+
+.just-two i{
+
+
+    width:30px;
+    height:30px;
+    margin-right:10px;
+    line-height:30px
+
+}
+
+.btn{
+
+    margin:25px 30px;
+    background:#259fffcc;
+    border-radius:15px;
+
+}
+
+
+.btn p{
+
+    padding:15px 30px;
+    color:white;
+ 
+}
+
+
+.tbl-one{
+    background:#4ac0f19e;
+    width: 50%;
+    float: left;
+    text-align:center;
+    position:relative;
+    top:80px;
+    
+}
+
+
+.tbl-one h4{
+    padding-top:80px;
+    font-size:40px;
+    text-transform:uppercase;
+    color: white;
+    text-shadow: 2px 2px black;
+
+}
+
+
+.tbl-one p{
+    padding:20px;
+    text-transform:capitalize;
+    color:white
+
+}
+
+
+.tbl-one form{
+    padding:20px;
+
+}
+
+
+.tbl-one input{
+    margin:2px;
+    border-radius:5px;
+
+
+}
+
+.tbl-one .tx{
+
+    padding:5px 200px 10px 8px;
+    box-shadow:2px 2px;
+
+
+}
+
+
+
+.tbl-btn{
+    background:#0037ff;
+    padding:0px 120px;
+    margin:9px;
+    box-shadow:2px 2px;
+    border-radius:15px;
+    
+}
+
+
+
+.tbl-btn p{
+    text-transform:uppercase;
+
+}
