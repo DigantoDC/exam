@@ -14,7 +14,7 @@ margin:0px auto;
 
 
 .bnr{
-width: 100%;
+    width:100%;
     float: left;
     background: url(backgr.jpg);
     background-size: cover;
